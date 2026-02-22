@@ -20,6 +20,11 @@ Automatically update development tools in your **Laragon** installation to their
 - 🎯 **Force Mode** - Force re-download even if version is current
 - 🔇 **Silent Mode** - Skip confirmation prompts with `-NoConfirm`
 
+
+## Virus Total Scan Result
+> [!NOTE]  
+> ```https://www.virustotal.com/gui/file/68792387b77d05e26732b239f71c9da658741c1cc87b5c7760746f6669947347/detection```
+
 ## Supported Tools
 
 | Tool | Type | Source |
