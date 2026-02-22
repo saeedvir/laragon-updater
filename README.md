@@ -45,6 +45,10 @@ Automatically update development tools in your **Laragon** installation to their
 
 ## Installation
 
+> [!NOTE]  
+> This Is Beta Version !
+
+
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/saeedvir/Laragon-updater.git
